@@ -1,0 +1,3 @@
+# Python 3 Standard Library Only — no external packages required
+
+python >= 3.6
